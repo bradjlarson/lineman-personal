@@ -1,0 +1,1 @@
+#Lineman Template (Personal)This is a lineman skeleton app for quickly getting apps up and running using my personal code/architecture. 
